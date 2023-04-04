@@ -1,60 +1,56 @@
 {
   "bio": {
-    "firstName": "John",
-    "lastName": "Doe",
+    "firstName": "Gaurav",
+    "lastName": "Keshre",
     "jobTitle": "Senior Software Engineer",
-    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque voluptate repellat ipsam repudiandae explicabo ratione aliquid, quo maxime ab unde distinctio nihil quod iure at ad, tempora odit mollitia. Amet repellat ipsam repudiandae explicabo ratione aliquid, quo maxime ab unde distinctio nihil quod iure at ad, tempora odit mollitia. Amet.",
+    "about": "Working on Microsoft Teams Platform team Since 2019",
     "avatar": "https://visittomalta.com/wp-content/uploads/2020/06/avatar-4.jpg"
   },
 
   "contact": {
-    "phone": "+49 30 909313146",
-    "email": "your_mail@example.com",
-    "website": "https://example.com",
-    "location": "Berlin, Germany"
+    "phone": "+91 ••• ••• ••••",
+    "email": "gaurav.junkyard@gmail.com",
+    "website": "https://gauravk.azurewebsites.com",
+    "location": "Bengaluru, India"
   },
 
   "skills": [
-    "HTML5",
-    "CSS3",
-    "SCSS",
-    "Bootstrap",
-    "Javascript",
-    "Reactjs",
-    "Vuejs",
-    "Nodejs"
-  ],
+    "Swift",
+    "Objective C",
+    "iOS App Development",
+    "Javascript"
+   ],
 
   "experiences": [
     {
-      "company": "Google",
+      "company": "Microsoft",
       "type": "Full-time",
       "position": "Senior Software Engineer",
-      "startDate": "Jan 2020",
+      "startDate": "March 2019",
       "endDate": "",
-      "description": "Started and scaled design team to 6 product designers and Implemented a web application desgin System.",
-      "website": "https://www.google.com",
-      "skills": ["C++", "C#", "Javascript"]
+      "description": "Working on Microsoft Teams Mobile Platform team and have worked on various layers in past 4 years. Currently, I am responsible for Auth related areas and developer experience on mobile platform side. ",
+      "website": "https://www.microsoft.com",
+      "skills": ["Swift", "Objective-C", "Javascript"]
     },
     {
-      "company": "Apple Company",
+      "company": "Zoomcar",
       "type": "Full-time",
-      "position": "Technical lead",
-      "startDate": "Jun 2019",
-      "endDate": "Feb 2020",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
-      "website": "https://www.apple.com",
-      "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"]
+      "position": "Swnior Software Engineer",
+      "startDate": "June 2017",
+      "endDate": "March 2019",
+      "description": "At Zoomcar, I was responsible for the end to end app development and enhancement. In the few years, I upgraded the code to Swift, re-designed and built payment and KYC sections and many more polishings.",
+      "website": "https://www.zoomcar.com",
+      "skills": ["Swift", "Objective-C", "Javascript"]
     }
   ],
 
   "education": [
     {
-      "school": "University of Cambridge",
-      "degree": "Bachelor of Science",
-      "field": "Computer Science",
-      "startDate": "Sep 2019",
-      "endDate": "Jun 2021"
+      "school": "RGTU, Bhopal",
+      "degree": "Bachelor of Engineering",
+      "field": "Information Technology",
+      "startDate": "Sep 2005",
+      "endDate": "July 2009"
     }
   ],
 
@@ -93,19 +89,19 @@
   "socials": [
     {
       "name": "Github",
-      "url": "https://github.com/johndoe"
+      "url": "https://github.com/gauravkeshre"
     },
     {
       "name": "Linkedin",
-      "url": "https://www.linkedin.com/in/johndoe"
+      "url": "https://www.linkedin.com/in/gauravkeshre"
     },
     {
       "name": "Twitter",
-      "url": "https://twitter.com/johndoe"
+      "url": "https://twitter.com/gkeshre"
     },
     {
       "name": "Instagram",
-      "url": "https://www.instagram.com/johndoe"
+      "url": "https://www.instagram.com/koungaurav"
     },
     {
       "name": "Facebook",
@@ -113,15 +109,15 @@
     },
     {
       "name": "Youtube",
-      "url": "https://www.youtube.com/channel/UC-lHJZR3Gqxm24_Vd_AJ5Yw"
+      "url": "https://www.youtube.com/"
     },
     {
       "name": "Medium",
-      "url": "https://medium.com/@johndoe"
+      "url": "https://medium.com/@gauravkeshre"
     },
     {
       "name": "Stackoverflow",
-      "url": "https://stackoverflow.com/users/12345"
+      "url": "https://stackoverflow.com/users/2986816/geekay"
     }
   ]
 }
