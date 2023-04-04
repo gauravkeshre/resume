@@ -1,0 +1,123 @@
+{
+  "bio": {
+    "firstName": "Gaurav",
+    "lastName": "Keshre",
+    "jobTitle": "Senior Software Engineer",
+    "about": "Working on Microsoft Teams Platform team Since 2019",
+    "avatar": "./avatar-gk.jpg"
+  },
+
+  "contact": {
+    "phone": "+91 ••• ••• ••••",
+    "email": "gaurav.junkyard@gmail.com",
+    "website": "https://gauravkeshre.azurewebsites.com",
+    "location": "Bengaluru, India"
+  },
+
+  "skills": [
+    "Swift",
+    "Objective C",
+    "iOS App Development",
+    "Javascript"
+   ],
+
+  "experiences": [
+    {
+      "company": "Microsoft",
+      "type": "Full-time",
+      "position": "Senior Software Engineer",
+      "startDate": "March 2019",
+      "endDate": "",
+      "description": "Working on Microsoft Teams Mobile Platform team and have worked on various layers in past 4 years. Currently, I am responsible for Auth related areas and developer experience on mobile platform side. ",
+      "website": "https://www.microsoft.com",
+      "skills": ["Swift", "Objective-C", "Javascript"]
+    },
+    {
+      "company": "Zoomcar",
+      "type": "Full-time",
+      "position": "Swnior Software Engineer",
+      "startDate": "June 2017",
+      "endDate": "March 2019",
+      "description": "At Zoomcar, I was responsible for the end to end app development and enhancement. In the few years, I upgraded the code to Swift, re-designed and built payment and KYC sections and many more polishings.",
+      "website": "https://www.zoomcar.com",
+      "skills": ["Swift", "Objective-C", "Javascript"]
+    }
+  ],
+
+  "education": [
+    {
+      "school": "RGTU, Bhopal",
+      "degree": "Bachelor of Engineering",
+      "field": "Information Technology",
+      "startDate": "Sep 2005",
+      "endDate": "July 2009"
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "Your Project Name 1",
+      "type": "Open-source",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
+      "website": "https://example.com",
+      "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"],
+      "startDate": "Jun 2019",
+      "endDate": "May 2020"
+    },
+    {
+      "name": "Your Project Name 2",
+      "type": "Freelance",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
+      "website": "https://another-example.com",
+      "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"],
+      "startDate": "Jun 2021",
+      "endDate": ""
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Profecient"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native"
+    }
+  ],
+
+  "socials": [
+    {
+      "name": "Github",
+      "url": "https://github.com/gauravkeshre"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/in/gauravkeshre"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/gkeshre"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/koungaurav"
+    },
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/johndoe"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://www.youtube.com/"
+    },
+    {
+      "name": "Medium",
+      "url": "https://medium.com/@gauravkeshre"
+    },
+    {
+      "name": "Stackoverflow",
+      "url": "https://stackoverflow.com/users/2986816/geekay"
+    }
+  ]
+}
