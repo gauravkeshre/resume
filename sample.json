@@ -55,24 +55,6 @@
   ],
 
   "projects": [
-    {
-      "name": "Your Project Name 1",
-      "type": "Open-source",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
-      "website": "https://example.com",
-      "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"],
-      "startDate": "Jun 2019",
-      "endDate": "May 2020"
-    },
-    {
-      "name": "Your Project Name 2",
-      "type": "Freelance",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vitae tincidunt congue, nisl nunc egestas nisi, euismod aliquet nisl nunc eget.",
-      "website": "https://another-example.com",
-      "skills": ["HTML5", "CSS3", "Javascript", "Reactjs", "Nodejs"],
-      "startDate": "Jun 2021",
-      "endDate": ""
-    }
   ],
 
   "languages": [
@@ -81,7 +63,7 @@
       "fluency": "Limited Working proficiency"
     },
     {
-      "language": "German Deutsch",
+      "language": "Hindi",
       "fluency": "Native"
     }
   ],
@@ -98,18 +80,6 @@
     {
       "name": "Twitter",
       "url": "https://twitter.com/gkeshre"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://www.instagram.com/koungaurav"
-    },
-    {
-      "name": "Facebook",
-      "url": "https://www.facebook.com/johndoe"
-    },
-    {
-      "name": "Youtube",
-      "url": "https://www.youtube.com/"
     },
     {
       "name": "Medium",
